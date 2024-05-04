@@ -34,10 +34,10 @@ int main()
     //double alpha = 0.1; // 스무딩 팩터 (0 < alpha < 1)
 
 
-    double data[] = { 17475, 17556,  16953,  18822, 20888, 16943, 19818, 17190, 17475, 17556,  16953,  18822, 20888, 16943, 19818, 17190 }; // 시계열 데이터
+    double data[] = { 17475, 17556, 16953, 18822, 20888, 16943, 19818, 17190, 17475, 17556, 16953,  18822, 20888, 16943, 19818, 17190 }; // 시계열 데이터
     int size = sizeof(data) / sizeof(data[0]); // 데이터 개수
  
-    int n = 8;
+    int n = size;
     double alpha = 2.0 / (double)(n +1);
 
     double EMA = calculate_EMA(data, size, alpha);
