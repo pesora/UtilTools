@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\7.Sunshine\\UtilTools\\2.\uAE30\uC220\uC790\uB8CC\\09.\uC9C0\uC218\uC774\uB3D9\uD3C9\uADE0\\ema_test2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A100AD3-A206-40AB-953D-1A94D51FC65B}|ema_test\\ema_test.vcxproj|F:\\7.Sunshine\\UtilTools\\2.\uAE30\uC220\uC790\uB8CC\\09.\uC9C0\uC218\uC774\uB3D9\uD3C9\uADE0\\ema_test2\\ema_test\\ema_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A100AD3-A206-40AB-953D-1A94D51FC65B}|ema_test\\ema_test.vcxproj|solutionrelative:ema_test\\ema_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ema_test.cpp",
+              "DocumentMoniker": "F:\\7.Sunshine\\UtilTools\\2.\uAE30\uC220\uC790\uB8CC\\09.\uC9C0\uC218\uC774\uB3D9\uD3C9\uADE0\\ema_test2\\ema_test\\ema_test.cpp",
+              "RelativeDocumentMoniker": "ema_test\\ema_test.cpp",
+              "ToolTip": "F:\\7.Sunshine\\UtilTools\\2.\uAE30\uC220\uC790\uB8CC\\09.\uC9C0\uC218\uC774\uB3D9\uD3C9\uADE0\\ema_test2\\ema_test\\ema_test.cpp",
+              "RelativeToolTip": "ema_test\\ema_test.cpp",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvygAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-04T03:16:18.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
