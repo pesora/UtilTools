@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\7.Sunshine\\UtilTools\\2.\uAE30\uC220\uC790\uB8CC\\10.BinToBCDTest(vs)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{116BADE7-0B29-4337-BCF8-F231435F1705}|BinToBCDTest\\BinToBCDTest.vcxproj|F:\\7.Sunshine\\UtilTools\\2.\uAE30\uC220\uC790\uB8CC\\10.BinToBCDTest(vs)\\BinToBCDTest\\BinToBCDTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{116BADE7-0B29-4337-BCF8-F231435F1705}|BinToBCDTest\\BinToBCDTest.vcxproj|solutionrelative:BinToBCDTest\\BinToBCDTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinToBCDTest.cpp",
+              "DocumentMoniker": "F:\\7.Sunshine\\UtilTools\\2.\uAE30\uC220\uC790\uB8CC\\10.BinToBCDTest(vs)\\BinToBCDTest\\BinToBCDTest.cpp",
+              "RelativeDocumentMoniker": "BinToBCDTest\\BinToBCDTest.cpp",
+              "ToolTip": "F:\\7.Sunshine\\UtilTools\\2.\uAE30\uC220\uC790\uB8CC\\10.BinToBCDTest(vs)\\BinToBCDTest\\BinToBCDTest.cpp",
+              "RelativeToolTip": "BinToBCDTest\\BinToBCDTest.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwCgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T08:52:11.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
